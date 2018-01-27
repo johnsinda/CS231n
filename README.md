@@ -7,7 +7,7 @@ Here are my solutions for this above course (Winter 2016), for the benefit of pe
 
 As of this writing I have yet completed the course material; completed assignments are marked [***done!***], otherwise they are as originally downloaded from the course site.
 
-Assignment list:
+Assignment list:(test)
 
  * Assignment #1
  	* Q1: k-Nearest Neighbor classifier (20 points) [***done!***]
